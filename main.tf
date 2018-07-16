@@ -1,10 +1,6 @@
-variable "aws_access_key" {
-  default = "AKIAJXZL6JKWEED2W6FQ"
-}
+variable "aws_access_key" {}
 
-variable "aws_secret_key" {
-  default = "Q9K6jsHdnlKn4KlvESepo1LmwrJAmqNo0UoVU7iE"
-}
+variable "aws_secret_key" {}
 
 variable "key_name" {
   default = "BernardoKey"
