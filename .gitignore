@@ -1,0 +1,5 @@
+access.tfvars
+*~
+*#
+terraform.tfstate
+.*pem

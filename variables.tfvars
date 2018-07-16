@@ -1,0 +1,11 @@
+security_group = "sg-07eb517a"
+
+key_name = "BernardoKey"
+
+public_key = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuaxwkHILuEmHTluXzntH
+ieSJYeWjMvp0sf5UeIFlUvIjU+myAU2lqstuawO8hhgblSVQCgED+hQeHR13ibzq
+iJK5sG+RA9q7gS7SII6JZMxXAs2qBPKuaRCVNcLWvZlfPEgpr5Rbm/ps6YIJDREP
+wbsNVys0YYeYjfW6mXNT8TzskWo95CdB5ctXZtBCHmonqjQbNo9I35RbVZUMcf6v
+c+lqOFmeYerZ62JgraRz62eR45Vi3fnh8W+i/nmBNo/xUQFicZVeRzxaCooH+y9P
+N7BJlnEh91TmRBfWJyhuYcqmAcfnfdabBzmCjbaqoJguufN/aCq8xp2E4HIePiIZ
+AQIDAQAB"
